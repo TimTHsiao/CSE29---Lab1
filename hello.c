@@ -9,6 +9,7 @@ int main() {
   puts(hello);
   puts(hello2);
   puts(binary);
+  puts(test_message);
 
   return 0;
 }
